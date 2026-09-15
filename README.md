@@ -1,3 +1,10 @@
+# 서버 정기 점검 안내
+보다 쾌적한 서비스 이용을 위하여 정기적인 서버 및 보안 점검을 실시합니다.
+
+서버 점검 중에는 서비스 이용을 하실 수 없으니 참고하시기 바랍니다.
+- 점검 일자 : `2026/09/15 15:00 PM ~ 2026/09/21 18:00 PM`
+
+
 # 서울 실시간 버스 정보
 
 [![API 서버 상태](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/3yearscurry/d179f0445e5df8a51b85c45c5caeda35/raw/server-status.json)](https://github.com/3yearscurry/Busan_Bus_Arrival_Information/releases)
